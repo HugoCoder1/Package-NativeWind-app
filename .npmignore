@@ -1,0 +1,37 @@
+# Ignore les dépendances installées
+node_modules
+
+# Ignore Git
+.git
+.gitignore
+
+# Ignore le dossier VSCode (au cas où)
+.vscode
+
+# Ignore les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignore tout dossier de build ou de test éventuel
+dist
+build
+coverage
+
+# Ignore les logs
+*.log
+
+# Ignore les fichiers inutiles
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# (Optionnel) ignore le fichier de test si jamais tu en as
+test
+tests
+__tests__
+
+# Ignore les fichiers de config locaux
+.env
+.env.local
+.env.*.local

@@ -1,0 +1,24 @@
+{
+  "name": "nativewind-app",
+  "version": "1.0.3",
+  "description": "Créer une app Expo avec NativeWind + TailwindCSS en un seul clic",
+  "bin": {
+    "nativewind-app": "./bin/nativewind-app.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "keywords": [
+    "expo",
+    "nativewind",
+    "tailwind",
+    "cli",
+    "react-native"
+  ],
+  "author": "Hugues Apithy",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
