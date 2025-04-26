@@ -10,7 +10,7 @@ const appName = process.argv[2];
 if (!appName) {
   console.error(
     chalk.red(
-      "❌ Merci d’indiquer le nom de l’app. Exemple : create-nativewind-app monApp"
+      "❌ Merci d’indiquer le nom de l’app. Exemple : nativewind-app monApp"
     )
   );
   process.exit(1);

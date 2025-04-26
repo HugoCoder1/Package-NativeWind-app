@@ -1,5 +1,5 @@
 
-# create-nativewind-app
+# nativewind-app
 
 🚀 Crée une application **Expo** prête à l'emploi avec **NativeWind** + **TailwindCSS** en une seule commande !
 
